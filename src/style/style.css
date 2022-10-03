@@ -1,0 +1,121 @@
+.mainPage {
+    display:flex;
+    justify-content: space-evenly;
+    background-color: #F5EDDC;
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+}
+#app{
+    height: 87vh;
+}
+/* html, body {
+    height: 100%;
+    width: 100%;
+  } */
+.Page{
+    display: block;
+    width: 100%;
+    
+  }
+.CategoriaPage{
+
+    
+    width: 35%;
+    border-right: 20px groove #FA9494;
+}
+.SelecaoPage{
+
+    width: 75%;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+#navbarConteudo{
+    background-color: #CFD2CF;
+    border-radius: 4px;
+
+}
+#ContainerNavbarConteudo{
+    margin-left: 10%;
+}
+.CategoriaIcons{
+    display: flex;
+    align-items: flex-start;
+    margin-top: 10%;
+
+}
+#IndexSearchBar{
+    width: 25%;
+}
+#ContainerSearchBar{
+    margin-top: 2%;
+    position: relative;
+    left:30%;
+}
+#LinkIcon{
+    width: 55px;
+    height: 35px;
+    color: #FA9494;
+}
+#LinkIcon2{
+
+    color: #FA9494;
+}
+#IconContainer{
+   display: inline;
+   text-align: start;
+   border: none;
+   background-color: #F5EDDC;
+   margin-bottom: 30%;
+   
+}
+#IconContainer:hover{
+    color:red;
+}
+#rodapeIcon:hover{
+    color:red;
+}
+#CategoriaTitle{
+    margin-bottom: 10%;
+    background-color: #CFD2CF;
+    border-radius: 4px;
+    
+}
+#ContainerConteudo{
+    overflow-y: scroll;
+    margin-top: 20px;
+    border: 2px solid black;        
+    width: 70%;
+    height: 75%;
+    margin-left: 10%;
+    display: flex;  
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    border-radius: 5px;
+    
+}
+.Conteudo{
+    margin-top: 15px;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 40%;
+    display: flex;
+    justify-content: start;
+    height: fit-content;
+
+}
+#CategoriaTitleContainer{
+    
+    margin-left: 25%;
+}
+#Rodape{
+    background-color: #F5EDDC;
+}
+#headerRodape{
+    background-color: #CFD2CF;
+    text-align: center;
+}
+#conteudoRodape{
+    display: flex;
+    justify-content: space-evenly;
+}

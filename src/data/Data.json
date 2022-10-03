@@ -1,0 +1,92 @@
+[
+    
+    {
+        "id": 1,
+        "name": "Hospital Regional",
+        "category": "emergencia",
+        "address": "Avenida Rio Branco",
+        "neighborhood": "Centro",
+        "city": "Rio de Janeiro",
+        "cep": "20040002",
+        "icon": "fa-solid fa-truck-medical"
+        
+    },
+    {
+        "id": 2,
+        "name": "Batalhão da Polícia Militar",
+        "category": "emergencia",
+        "address": "Rua Frederico Moura",
+        "neighborhood": "Cidade Nova",
+        "city": "Franca",
+        "cep": "14401150",
+        "icon": "fa-solid fa-building-shield"
+        
+    },
+    {
+        "id": 3,
+        "name": "Casa de Festas",
+        "category": "entretenimento",
+        "address": "Rua Maria Luísa do Val Penteado",
+        "neighborhood": "Cidade São Mateus",
+        "city": "São Paulo",
+        "cep": "03962040",
+        "icon": "fa-solid fa-champagne-glasses"
+        
+    },
+    {
+        "id": 4,
+        "name": "Circo Municipal",
+        "category": "entretenimento",
+        "address": "Avenida São João",
+        "neighborhood": "Vila Joana",
+        "city": "Jundiaí",
+        "cep": "13216000",
+        "icon": "fa-solid fa-bomb"
+        
+    },
+    {
+        "id": 5,
+        "name": "Pizzaria MamaMia",
+        "category": "gastronomia",
+        "address": "Rua Arlindo Nogueira",
+        "neighborhood": "Centro",
+        "city": "Teresina",
+        "cep": "64000290",
+        "icon": "fa-solid fa-pizza-slice"
+        
+    },
+    {
+        "id": 6,
+        "name": "Restaurante da Vóvó",
+        "category": "gastronomia",
+        "address": "Rua das Fiandeiras",
+        "neighborhood": "Vila Olímpia",
+        "city": "São Paulo",
+        "cep": "04545005",
+        "icon": "fa-solid fa-utensils"
+        
+    },
+    {
+        "id": 7,
+        "name": "Supermercado +",
+        "category": "outros",
+        "address": "Rua Barão de Vitória",
+        "neighborhood": "Casa Grande",
+        "city": "Diadema",
+        "cep": "09961660",
+        "icon": "fa-solid fa-store"
+        
+    },
+    {
+        "id": 8,
+        "name": "Universidade Católica",
+        "category": "outros",
+        "address": "Praça da República",
+        "neighborhood": "República",
+        "city": "São Paulo",
+        "cep": "01045001",
+        "icon": "fa-solid fa-building-columns"
+        
+    }
+
+]
